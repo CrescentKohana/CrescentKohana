@@ -10,7 +10,7 @@ Currently studying Computer Science (BSc 3rd year) at University of Helsinki.
 - **Go**・mux (HTTP)
 - **Python**・Flask
 - **Docker**・Compose, Azure
-- **and more**・HTML+CSS, Lua, LaTeX, SQL, Scrum...
+- **and more**・HTML+CSS, Lua, LaTeX, SQL, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 How to reach me
 
