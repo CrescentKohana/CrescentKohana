@@ -1,4 +1,4 @@
-
+**[日本語版はこちら](README.jp.md)**
 
 ### ℹ️ About me
 
