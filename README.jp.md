@@ -2,6 +2,8 @@
 
 ### ℹ️ 自己紹介
 
+[Rare（ラレ）](https://rare.fi)・ソフトウェア開発。
+
 ヘルシンキ大学で計算機科学（学士３年生）を専攻しています。
 
 - **Ruby**・Ruby on Rails, discordrb
@@ -9,8 +11,9 @@
 - **JavaScript** & **TypeScript**・Node.js, React, Next.js
 - **Go**・mux (HTTP)
 - **Python**・Flask
-- **Docker**・Compose, Azure
-- **and more**・HTML+CSS, Regex, Lua, LaTeX, SQL, Scrum, git, Linux, VSCode, IntelliJ IDEA
+- **Cloud**・Azure, AWS
+- **SQL**・MariaDB, PostgreSQL, SQLite
+- **and more**・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 連絡先
 
