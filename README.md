@@ -9,8 +9,9 @@ Currently studying Computer Science (BSc 3rd year) at University of Helsinki.
 - **JavaScript** & **TypeScript**・Node.js, React, Next.js
 - **Go**・mux (HTTP)
 - **Python**・Flask
-- **Docker**・Compose, Azure
-- **and more**・HTML+CSS, Regex, Lua, LaTeX, SQL, Scrum, git, Linux, VSCode, IntelliJ IDEA
+- **Cloud**・Azure, AWS
+- **SQL**・MariaDB, PostgreSQL, SQLite
+- **and more**・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 How to reach me
 
