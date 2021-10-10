@@ -2,7 +2,7 @@
 
 ### ℹ️ About me
 
-Currently studying Computer Science (BSc 3rd year) at University of Helsinki.
+Software developer at [Rare](https://rare.fi). Student of Computer Science (BSc 3rd year) at University of Helsinki.
 
 - **Ruby**・Ruby on Rails, discordrb
 - **Java**・Gradle, Maven, JavaFX
