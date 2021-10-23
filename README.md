@@ -11,6 +11,7 @@ Software developer at [Rare](https://rare.fi). Student of Computer Science (BSc 
 - **Python**・Flask
 - **Cloud**・Azure, AWS
 - **SQL**・MariaDB, PostgreSQL, SQLite
+- **Rust**・Beginner
 - **and more**・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 How to reach me
