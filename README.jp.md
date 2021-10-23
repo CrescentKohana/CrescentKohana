@@ -13,6 +13,7 @@
 - **Python**・Flask
 - **Cloud**・Azure, AWS
 - **SQL**・MariaDB, PostgreSQL, SQLite
+- **Rust**・初心者
 - **and more**・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 連絡先
