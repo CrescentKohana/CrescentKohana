@@ -7,7 +7,7 @@ Software developer at [Rare](https://rare.fi). Student of Computer Science (BSc 
 - **Ruby**・Ruby on Rails, discordrb
 - **Java**・Gradle, Maven, JavaFX
 - **JavaScript** & **TypeScript**・Node.js, React, Next.js
-- **Go**・mux (HTTP)
+- **Go**・API, Performance, File Parsing
 - **Python**・Flask
 - **Cloud**・Azure, AWS
 - **SQL**・MariaDB, PostgreSQL, SQLite
