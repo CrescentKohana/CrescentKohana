@@ -1,18 +1,18 @@
 ### ℹ️ 自己紹介
 
-[Rare（ラレ）](https://rare.fi)・ソフトウェア開発。
+ソフトウェア開発 @ [Rare（ラレ）](https://rare.fi)
 
-ヘルシンキ大学で計算機科学（学士３年生）を専攻しています。
+ヘルシンキ大学で計算機科学（学士３年生）を専攻しています
 
-- **Ruby**・Ruby on Rails, discordrb
-- **Java**・Gradle, Maven, JavaFX
-- **JavaScript** & **TypeScript**・Node.js, React, Next.js
-- **Go**・mux (HTTP)
+- **Go**・HTTP API、パファーマンス、データベース
+- **TypeScript** & **JavaScript**・Node.js、React、Next.js
+- **Ruby**・Ruby on Rails、discordrb
+- **Java**・Gradle、Maven、JavaFX
 - **Python**・Flask
-- **Cloud**・Azure, AWS
-- **SQL**・MariaDB, PostgreSQL, SQLite
+- **SQL**・MySQL（MariaDB）、PostgreSQL、SQLite
 - **Rust**・初心者
-- **and more**・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
+- **Cloud**・Azure、AWS
+- その他・Docker、HTML+CSS、Regex、Lua、LaTeX、Scrum、git、Linux、VSCode、IntelliJ IDEA
 
 ### 📫 連絡先
 
@@ -23,7 +23,7 @@
 
 - フィンランド語 (suomi) - ネイティブ
 - 英語 (English) - ペラペラ
-- 日本語 (日本語) - そこまで達していないが、それなりに使えます。もちろん、他の言語と同等のレベルを目指しています。
+- 日本語 (日本語) - それなりに使えます。ペラペラを目指しています。
 
 ## 証書
 
