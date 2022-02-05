@@ -2,17 +2,17 @@
 
 ### ℹ️ About me
 
-Software developer at [Rare](https://rare.fi). Student of Computer Science (BSc 3rd year) at University of Helsinki.
+Software Developer at [Rare](https://rare.fi). Student of Computer Science (BSc 3rd year) at University of Helsinki.
 
+- **Go**・HTTP API, performance, databases
+- **TypeScript** & **JavaScript**・Node.js, React, Next.js
 - **Ruby**・Ruby on Rails, discordrb
 - **Java**・Gradle, Maven, JavaFX
-- **JavaScript** & **TypeScript**・Node.js, React, Next.js
-- **Go**・API, Performance, File Parsing
 - **Python**・Flask
-- **Cloud**・Azure, AWS
-- **SQL**・MariaDB, PostgreSQL, SQLite
+- **SQL**・MySQL (MariaDB), PostgreSQL, SQLite
 - **Rust**・Beginner
-- **and more**・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
+- **Cloud**・Azure, AWS
+- and more・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 How to reach me
 
