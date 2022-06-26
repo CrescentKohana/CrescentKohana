@@ -16,7 +16,7 @@
 
 ### 📫 連絡先
 
-- Discord: **Luukuton#3717**
+- Discord: **Kohana#3717**
 - [LinkedIn](https://www.linkedin.com/in/marko-leinikka/)
 
 ### 💬 言語
