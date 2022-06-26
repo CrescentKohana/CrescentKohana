@@ -16,7 +16,7 @@ Software Developer at [Rare](https://rare.fi). Student of Computer Science (BSc 
 
 ### 📫 How to reach me
 
-- Discord: **Luukuton#3717**
+- Discord: **Kohana#3717**
 - [LinkedIn](https://www.linkedin.com/in/marko-leinikka/)
 
 ### 💬 Languages
