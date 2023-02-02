@@ -2,7 +2,7 @@
 
 ### ℹ️ About me
 
-Software Developer at [Rare](https://rare.fi). Student of Computer Science (BSc 3rd year) at University of Helsinki.
+Software Developer at [Rare](https://rare.fi). Bachelor of Computer Science at University of Helsinki, and Special Auditor at Kyoto University (2022-2023).
 
 - **Go**・HTTP API, performance, databases
 - **TypeScript** & **JavaScript**・Node.js, React, Next.js
@@ -23,7 +23,7 @@ Software Developer at [Rare](https://rare.fi). Student of Computer Science (BSc 
 
 - Finnish (suomi) - native
 - English (English) - fluent
-- Japanese (日本語) - limited working proficiency (aiming for fluency)
+- Japanese (日本語) - around N1
 
 ## Certificates
 
