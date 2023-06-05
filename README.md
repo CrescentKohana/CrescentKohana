@@ -2,17 +2,17 @@
 
 ### ℹ️ About me
 
-Software Developer at [Rare](https://rare.fi). Bachelor of Computer Science at University of Helsinki, and Special Auditor at Kyoto University (2022-2023).
+Software Developer at [MTI Ltd.](https://www.mti.co.jp/eng). Bachelor of Computer Science at University of Helsinki, and Special Auditor at Kyoto University (2022-2023).
 
-- **Go**・HTTP API, performance, databases
-- **TypeScript** & **JavaScript**・Node.js, React, Next.js
+- **Go**・HTTP API, gRPC API, performance, databases, 
+- **TypeScript** & **JavaScript**・Node.js, React, Next.js, Vue, Nuxt.js
+- **Java**・Gradle, Maven, Micronaut, JavaFX
 - **Ruby**・Ruby on Rails, discordrb
-- **Java**・Gradle, Maven, JavaFX
 - **Python**・Flask
 - **SQL**・MySQL (MariaDB), PostgreSQL, SQLite
 - **Rust**・Beginner
-- **Cloud**・Azure, AWS
-- and more・Docker, HTML+CSS, Regex, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
+- **Cloud**・AWS, Azure
+- and more・Docker, HTML+CSS, regex, Protocol Buffers, Lua, LaTeX, Scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 How to reach me
 
@@ -23,7 +23,7 @@ Software Developer at [Rare](https://rare.fi). Bachelor of Computer Science at U
 
 - Finnish (suomi) - native
 - English (English) - fluent
-- Japanese (日本語) - around N1
+- Japanese (日本語) - fluent
 
 ## Certificates
 
