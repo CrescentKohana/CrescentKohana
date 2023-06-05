@@ -1,18 +1,18 @@
 ### ℹ️ 自己紹介
 
-ソフトウェア開発 @ [Rare（ラレ）](https://rare.fi)
+テクノロジー本部　ＩＴエンジニア部　開発業務 @ [株式会社エムティーアイ](https://www.mti.co.jp)。
 
-ヘルシンキ大学で計算機科学（学士３年生）を専攻しています
+コンピューターサイエンスの学部 @ ヘルシンキ大学。特別聴講学生 @ 京都大学（2022年から2023年まで）。
 
-- **Go**・HTTP API、パファーマンス、データベース
-- **TypeScript** & **JavaScript**・Node.js、React、Next.js
+- **Go**・HTTP API、gRPC API、パファーマンス、データベース
+- **TypeScript** & **JavaScript**・Node.js、React、Next.js, Vue, Nuxt.js
+- **Java**・Gradle、Maven、Micronaut、JavaFX
 - **Ruby**・Ruby on Rails、discordrb
-- **Java**・Gradle、Maven、JavaFX
 - **Python**・Flask
 - **SQL**・MySQL（MariaDB）、PostgreSQL、SQLite
 - **Rust**・初心者
-- **Cloud**・Azure、AWS
-- その他・Docker、HTML+CSS、Regex、Lua、LaTeX、Scrum、git、Linux、VSCode、IntelliJ IDEA
+- **Cloud**・AWSA、zure
+- その他・Docker、HTML+CSS、regex、Protocol Buffers、Lua、LaTeX、Scrum、git、Linux、VSCode、IntelliJ IDEA
 
 ### 📫 連絡先
 
@@ -22,8 +22,8 @@
 ### 💬 言語
 
 - フィンランド語 (suomi) - ネイティブ
-- 英語 (English) - ペラペラ
-- 日本語 (日本語) - それなりに使えます。ペラペラを目指しています。
+- 英語 (English) - 流暢
+- 日本語 (日本語) - 流暢
 
 ## 証書
 
