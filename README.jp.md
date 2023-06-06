@@ -16,7 +16,7 @@
 
 ### 📫 連絡先
 
-- Discord: **Kohana#3717**
+- Discord: **kohanyan**
 - [LinkedIn](https://www.linkedin.com/in/marko-leinikka/)
 
 ### 💬 言語
