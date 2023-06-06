@@ -16,7 +16,7 @@ Software Developer at [MTI Ltd.](https://www.mti.co.jp/eng). Bachelor of Compute
 
 ### 📫 How to reach me
 
-- Discord: **Kohana#3717**
+- Discord: **kohanyan**
 - [LinkedIn](https://www.linkedin.com/in/marko-leinikka/)
 
 ### 💬 Languages
