@@ -27,7 +27,7 @@ Software Developer at [MTI Ltd.](https://www.mti.co.jp/eng). Bachelor of Compute
 
 ## Certificates
 
-<img alt="AWS Certified Developer – Associate" src="https://raw.githubusercontent.com/CrescentKohana/CrescentKohana/main/img/aws-certified-developer-associate.png" width="350">
+<img alt="AWS Certified Developer – Associate" src="https://raw.githubusercontent.com/CrescentKohana/CrescentKohana/main/img/aws-certified-developer-associate.png" width="240">
 
 <details>
   <summary>Click here to view</summary>
