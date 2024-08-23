@@ -27,6 +27,8 @@ Software Developer at [MTI Ltd.](https://www.mti.co.jp/eng). Bachelor of Compute
 
 ## Certificates
 
+<img alt="AWS Certified Developer – Associate" src="https://raw.githubusercontent.com/CrescentKohana/CrescentKohana/main/img/aws-certified-developer-associate.png" width="350">
+
 <details>
   <summary>Click here to view</summary>
   <span>
@@ -51,6 +53,6 @@ Software Developer at [MTI Ltd.](https://www.mti.co.jp/eng). Bachelor of Compute
     <img alt="Cyber Security Project I 2021 certificate" src="https://raw.githubusercontent.com/CrescentKohana/CrescentKohana/main/img/certificate-cyber-security-project-i-2021.png" width="350">
   </span>
 
-Sources: [Fullstack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/e674cfce0a2adf8cb8e3eeb6273ea237), [DevOps with Docker](https://studies.cs.helsinki.fi/stats/api/certificate/docker2021/en/c42e4cace0d281d9a32f6bc9e70a081c), [Elements of AI](https://certificates.mooc.fi/validate/04hbs8qngyir), [Ethics of AI](https://certificates.mooc.fi/validate/uycscy8wfg), [Introduction to Cyber Security](https://certificates.mooc.fi/validate/in5gcd6fidj), [Securing Software](https://certificates.mooc.fi/validate/4eb4q7redi4), [Cyber Security Project I 2021](https://certificates.mooc.fi/validate/5kmdiqbug0v)
-
+Sources: [AWS Certified Developer – Associate](https://www.credly.com/badges/7287e8a0-4218-403a-a17f-a5d62739da6d/public_url)
+, [Fullstack Open](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/e674cfce0a2adf8cb8e3eeb6273ea237), [DevOps with Docker](https://studies.cs.helsinki.fi/stats/api/certificate/docker2021/en/c42e4cace0d281d9a32f6bc9e70a081c), [Elements of AI](https://certificates.mooc.fi/validate/04hbs8qngyir), [Ethics of AI](https://certificates.mooc.fi/validate/uycscy8wfg), [Introduction to Cyber Security](https://certificates.mooc.fi/validate/in5gcd6fidj), [Securing Software](https://certificates.mooc.fi/validate/4eb4q7redi4), [Cyber Security Project I 2021](https://certificates.mooc.fi/validate/5kmdiqbug0v)
 </details>
