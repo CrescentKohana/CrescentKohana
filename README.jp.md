@@ -4,15 +4,15 @@
 
 コンピューターサイエンスの学部 @ ヘルシンキ大学。特別聴講学生 @ 京都大学（2022年から2023年まで）。
 
-- **Go**・HTTP API、gRPC API、パファーマンス、データベース
-- **TypeScript** & **JavaScript**・Node.js、React、Next.js, Vue, Nuxt.js
-- **Java**・Gradle、Maven、Micronaut、JavaFX
-- **Ruby**・Ruby on Rails、discordrb
+- **Go**・HTTP, gRPC, performance, databases, microservices
+- **TypeScript** & **JavaScript**・Node.js, React, Next.js, Vue, Nuxt.js, AWS CDK
+- **Java**・Gradle, Maven, Micronaut, JavaFX, microservices
+- **Ruby**・Ruby on Rails, discordrb
 - **Python**・Flask
-- **SQL**・MySQL（MariaDB）、PostgreSQL、SQLite
-- **Rust**・初心者
-- **Cloud**・AWSA、zure
-- その他・Docker、HTML+CSS、regex、Protocol Buffers、Lua、LaTeX、Scrum、git、Linux、VSCode、IntelliJ IDEA
+- **SQL**・PostgreSQL, MySQL (MariaDB), SQLite
+- **Rust**・Scripting
+- **Cloud**・AWS (with CDK and Pulumi), Azure, Google Cloud
+- and more・Docker, HTML+CSS, regex, Protocol Buffers, Rust, Lua, LaTeX, scrum, git, Linux, VSCode, IntelliJ IDEA
 
 ### 📫 連絡先
 
@@ -26,6 +26,11 @@
 - 日本語 (日本語) - 流暢
 
 ## 証書
+
+<div>
+<img alt="AWS Certified Solutions Architect – Associate" src="https://raw.githubusercontent.com/CrescentKohana/CrescentKohana/main/img/aws-certified-solutions-architect-associate.png" width="240">
+<img alt="AWS Certified Developer – Associate" src="https://raw.githubusercontent.com/CrescentKohana/CrescentKohana/main/img/aws-certified-developer-associate.png" width="240">
+</div>
 
 <details>
   <summary>ここをクリックして、ご覧ください。</summary>
